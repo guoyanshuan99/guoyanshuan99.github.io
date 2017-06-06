@@ -41,7 +41,7 @@ Nodejs　Reactjs　Vuex　php　ionic　......
 项目职责：<br>
 　　主要负责项目中首页的页面排版和交互效果，使用HTML+CSS排版，解决各主浏览器的兼容问题，负责使用bootstrap框架完成页面的响应式布局，并使用javascript，jquery完成页面的交互效果，使用ajax技术请求数据完成对页面的渲染，使用mock模拟数据进行测试。<br><br>
 
-教育经历<br>
+### 教育经历<br>
 
 　　河北传媒学院<br>
 　　本科 · 计算机信息管理专业　　　　　　　　　　2014年毕业<br><br>
