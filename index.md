@@ -1,17 +1,17 @@
 # 郭岩栓
-性　　别：男
-出生日期：1993.7
-户　　口：河北邯郸
-现居住于：北京市
-联系方式： TEL：15711438997　　　WX：DNF960727 
+性　　别：男<br>
+出生日期：1993.7<br>
+户　　口：河北邯郸<br>
+现居住于：北京市<br>
+联系方式： TEL：15711438997　　　WX：DNF960727 <br>
 Email 　: guoyanshuan99@163.com
 
 #### 求职意向
-工作性质：全职 
-期望职业：WEB前端开发
-工作地区：北京
-期望月薪：面议
-目前状况：我目前处于离职状态，可立即上岗
+工作性质：全职 <br>
+期望职业：WEB前端开发<br>
+工作地区：北京<br>
+期望月薪：面议<br>
+目前状况：我目前处于离职状态，可立即上岗<br>
 #### 自我评价
 ##### 熟悉使用：
 bootstrap　requirejs　commonJs　jQuery　Vue　AngularJs  微信小程序　webpack/gulp　html5+css3　debuggap/weinre　git　charles抓包工具　......      
